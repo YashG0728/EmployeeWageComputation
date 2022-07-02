@@ -27,6 +27,6 @@ public class EmployeeWageBuilder {
 		empWage=workingHrs*wagePerHour;
 		    System.out.println("Employee Daily Wage is " +empWage);
 
-			}
-
 		}
+
+	}
