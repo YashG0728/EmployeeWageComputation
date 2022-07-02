@@ -4,7 +4,7 @@ public class EmployeeWageBuilder {
 
 	public static void main(String[] args) {
 		
-			int FullTime=1;
+		int FullTime=1;
 	        int PartTime=2;
 	        int wagePerHour=20;
 	        int workingHrs=0;
