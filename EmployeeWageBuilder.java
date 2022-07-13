@@ -1,4 +1,4 @@
-package com.bridgelabz;
+package employeewage;
 
 public class EmployeeWageBuilder {
     public static final int IS_FULL_TIME = 2;
